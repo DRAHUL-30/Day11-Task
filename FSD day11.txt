@@ -1,0 +1,190 @@
+HTML Task to know usage of basic tags.
+
+(1)Fix the bugs in below snippet
+    <html lang="en">
+    <head>
+        <title>Document
+            <body>
+                guvi
+        </title>
+    </head>
+    <div>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit.
+        <div>
+            <div>
+                Guvi Geek Network
+            </div>
+        </body>
+    </html>
+ANS:
+    <html lang="en">
+    <head>
+        <title>Document
+        </title>
+    </head>
+    <body>
+    <div>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit.
+        </div>
+            <div>
+                Guvi Geek Network
+            </div>
+        </body>
+    </html>
+--------------------------------------------------------------------------------------------------------
+(2)Try the below one
+<html lang="en">
+    <head>
+        <title>Document
+            <body>
+                guvi
+    </head>
+    <div>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit.
+        <div>
+            <div>
+                Guvi Geek Network
+            </div>
+        </body>
+    </html>
+ANS: 
+<html lang="en">
+    <head>
+        <title>Document
+            </title>
+    </head>
+    <body>
+    <div>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit.
+        </div>
+            <div>
+                Guvi Geek Network
+            </div>
+        </body>
+    </html>
+--------------------------------------------------------------------------------------------------------
+(3)Design a contact us form with all fields as required.
+ANS:
+Github Link:   
+https://github.com/Rahulgithub07/contact-us-form-Task
+--------------------------------------------------------------------------------------------------------
+(4)Use certain HTML elements to display the following in a HTML page.
+Programming Language
+JavaScript
+Angular
+React
+Vue.js
+Python
+Django Framework
+Flask Framework
+Java
+Spring
+Maven
+Hibernate
+Database
+MySQL
+MongoDB
+Cansandra
+ANS:
+<ul>
+        <li>Programming Language</li>
+        <ul>
+            <li>Javascript</li>
+            <ol type="a">
+                <li>Angular</li>
+                <li>React</li>
+                <li>Vue.js</li>
+            </ol>
+            <li>Python</li>
+            <ol type="a">
+                <li>Django Framework</li>
+                <li>Flask Framework</li>
+            </ol>
+            <li>Java</li>
+            <ol type="a">
+                <li>Spring</li>
+                <li>Maven</li>
+                <li>Hibernate</li>
+            </ol>
+        </ul>
+    </ul>
+    <ul>
+        <li>Database</li>
+        <ul>
+            <li>MySQL</li>
+            <li>MongoDB</li>
+            <li>Casandra</li>
+        </ul>
+    </ul>
+--------------------------------------------------------------------------------------------------------
+(5)Create an element that helps you to open the https://google.com in separate new tab.
+ANS:
+<a href="https://google.com">google</a>
+--------------------------------------------------------------------------------------------------------
+(6)In the form, add two radio buttons with grouping them for employee type(Salaried and own business)
+ANS:
+ <h3>employee type</h3>
+    <input type="radio">Salaried<br/><br/>
+    <input type="radio">own business
+---------------------------------------------------------------------------------------------------------
+(7)Design form shown in the link (http://evc-cit.info/cit040/formguide/card_0.png)
+ANS:
+Github link:
+https://github.com/Rahulgithub07/day11poster-Task
+---------------------------------------------------------------------------------------------------------
+(8)Use the table tag to design given image Click here.
+ANS:
+Github link:
+https://github.com/Rahulgithub07/Table-Task
+---------------------------------------------------------------------------------------------------------
+(9)Write HTML input tags snippet to show default values for all Form elements.
+ANS:
+
+<h1>The input value attribute</h1>
+<form>
+  <label for="fname">First name:</label>
+  <input type="text" id="fname" name="fname" value="Rahul"><br><br>
+  <label for="lname">Last name:</label>
+  <input type="text" id="lname" name="lname" value="D"><br><br>
+  <label for="email">E-mail:</label>
+  <input type="text" id="email" name="email" value="Rahuld@gmail.com"><br><br>
+  <input type="submit" value="Submit">
+</form>
+
+</body>
+</html>
+---------------------------------------------------------------------------------------------------------
+(10)In your, HTML page add the below line and Highlight it without using any CSS.
+"HTML & CSS is awesome"
+ANS:
+<ul style="color: gray;background-color: hotpink;">
+      <li>"HTML & CSS is awesome"</li>
+  </ul>
+--------------------------------------------------------------------------------------------------------
+(11)Create an HTML page, which should contain all types of input elements.
+ANS:
+<body>
+    <input type="button"><br>
+    <input type="checkbox"><br>
+    <input type="color"><br>
+    <input type="date"><br>
+    <input type="datetime-local"><br>
+    <input type="email"><br>
+    <input type="file"><br>
+    <input type="hidden"><br>
+    <input type="image"><br>
+    <input type="month"><br>
+    <input type="number"><br>
+    <input type="password"><br>
+    <input type="radio"><br>
+    <input type="range"><br>
+    <input type="reset"><br>
+    <input type="search"><br>
+    <input type="submit"><br>
+    <input type="tel"><br>
+    <input type="text"><br>
+    <input type="time"><br>
+    <input type="url"><br>
+    <input type="week"><br>
+</body>
+--------------------------------------------------------------------------------------------------------
